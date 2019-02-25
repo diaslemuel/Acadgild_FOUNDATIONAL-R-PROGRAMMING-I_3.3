@@ -1,0 +1,13 @@
+Problem Statement
+1. Define matrix mymat by replicating the sequence 1:5 for 4 times and
+transforming into a matrix, sum over rows and columns.
+
+Data Analytics
+
+4
+
+6. Expected Format
+1. R file should be submitted where applicable.
+2. R file should be in PDF or in .r format
+3. Proper screenshots of the outputs should be submitted as well
+4. The r codes, if submitted in any other format, will be subjected
